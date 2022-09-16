@@ -1,4 +1,4 @@
-<img width=100% src="https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Paulo+Cezar+Figueiredo;I'm+20+years+old;I+from+Pernambuco,+Brazil;I'm+a+beginner+in+Data+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
